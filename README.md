@@ -1,3 +1,14 @@
+#### Preview
+
+<table border=0>
+    <tr>
+        <td>
+            <image src=https://github.com/Saydulayev/Tip-Calculator/blob/main/Tip%20Calculator/Gif/tipcalculator.GIF width=230 align=center>
+        </td>
+    </tr>
+</table>
+
+
 # Tip-Calculator
 
 
