@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Tip Calculator
 //
-//  Created by Dokx Dig on 17.08.23.
+//  Created by Akhmed on 17.08.23.
 //
 
 import SwiftUI
