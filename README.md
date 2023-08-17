@@ -41,5 +41,9 @@ To run the app locally, make sure you have Xcode installed on your macOS device.
 
 Contributions are welcome! If you find any issues, have suggestions, or want to add new features, feel free to open an issue or submit a pull request.
 
+## Contact
 
+For any inquiries or questions, please contact [saydulayev.wien@gmail.com]
+
+---
 
