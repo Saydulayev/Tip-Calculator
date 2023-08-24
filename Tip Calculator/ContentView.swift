@@ -71,7 +71,8 @@ struct ContentView: View {
                 Section(header: Text("Total amount for the check")) {
                     Text(totalAmount, format: .currency(code: Locale.current.currency?.identifier ?? "USD"))
                         .font(.title)
-                        .foregroundColor(.primary)
+                        .foregroundColor((tipPercentage == 0) ? .red : .green)
+                        
                 }
             }
             .navigationTitle("Tip Calculator")
